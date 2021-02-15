@@ -10,6 +10,6 @@ Fundraising for JingSha X99-E8i Motherboard BIOS Development
   <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
 </a>
 
-##### Already 4% (2020 Dec 16)
+##### Already 6% (2020 Feb 15)
 
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99-E8i-Board.jpg" alt="BIOS for JingSha X99-E8i" />
